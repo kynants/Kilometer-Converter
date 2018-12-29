@@ -1,0 +1,11 @@
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/bin/Debug/netcoreapp2.1/Kilometer-Converter.deps.json
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/bin/Debug/netcoreapp2.1/Kilometer-Converter.runtimeconfig.json
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/bin/Debug/netcoreapp2.1/Kilometer-Converter.runtimeconfig.dev.json
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/bin/Debug/netcoreapp2.1/Kilometer-Converter.dll
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/bin/Debug/netcoreapp2.1/Kilometer-Converter.pdb
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/obj/Debug/netcoreapp2.1/Kilometer-Converter.csprojAssemblyReference.cache
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/obj/Debug/netcoreapp2.1/Kilometer-Converter.csproj.CoreCompileInputs.cache
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/obj/Debug/netcoreapp2.1/Kilometer-Converter.AssemblyInfoInputs.cache
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/obj/Debug/netcoreapp2.1/Kilometer-Converter.AssemblyInfo.cs
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/obj/Debug/netcoreapp2.1/Kilometer-Converter.dll
+/Users/kynan/Projects/Kilometer-Converter/Kilometer-Converter/obj/Debug/netcoreapp2.1/Kilometer-Converter.pdb
